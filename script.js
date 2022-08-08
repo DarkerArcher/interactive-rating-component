@@ -41,7 +41,7 @@ submit.addEventListener("mouseout", () => {
 
 submit.addEventListener("click", () => {
     if (confirm("Are you sure you want to submit this rating?")) {
-        location.href = "./closer.html"
+        location.href = "./closer.html";
     }
 });
 
