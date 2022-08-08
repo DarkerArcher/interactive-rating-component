@@ -54,7 +54,7 @@ I couldn't get my head around it so I decided to leave it.
 
 ### Useful resources
 
-- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/Events#event_listing) - This helped me for understand events and event listeners.
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/Events#event_listing) - This helped me to understand events and event listeners.
 
 
 ## Author
