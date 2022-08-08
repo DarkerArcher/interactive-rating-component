@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Live Site](https://darkerarcher.github.io/interactive-rating-component)
 
 ## My process
