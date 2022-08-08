@@ -65,6 +65,6 @@ I couldn't get my head around it so I decided to leave it.
 
 ## Acknowledgments
 
-I'd like to thank my cousin, Ope. He really helpedme work through the javascript block I had, when working on the selection part.
+I'd like to thank my cousin, Ope. He really helpedme work through the javascript block I had, when working on the rating selection part.
 
 
