@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Overpass", sans-serif;
+    color: rgb(255, 255, 255);
+}
+body {
+    background: rgb(11, 22, 37);
+}
+
+.rating {
+    margin: auto;
+    margin-top: 20px;
+    width: 400px;
+    padding: 20px;
+    background: rgb(22, 37, 54);
+    border-radius: 20px;
+}
+
+.bold {
+    padding: 20px 0;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
+
+.numbers {
+    text-align: center;
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.number {
+    width: 50px;
+    height: 50px;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(11, 22, 37);
+    border: none;
+    border-radius: 50%;
+    color: rgb(149, 158, 172);
+    text-align: center;
+}
+
+.number:hover {
+    cursor: pointer;
+    background: rgb(251, 116, 19);
+    color: rgb(255, 255, 255);
+}
+
+.selected {
+    background: rgb(149, 158, 172);
+    color: rgb(255, 255, 255);
+}
+
+.default {
+    background-color: rgb(11, 22, 37);
+    color: rgb(149, 158, 172);
+}
+
+.submit-btn {
+    width: 100%;
+    background-color: rgb(251, 116, 19);
+    border: none;
+    border-radius: 25px;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.submit-btn:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
