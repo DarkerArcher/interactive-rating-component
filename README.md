@@ -60,7 +60,7 @@ I couldn't get my head around it so I decided to leave it.
 ## Author
 
 - Frontend Mentor - [@darkerarcher](https://www.frontendmentor.io/profile/DarkerArcher)
-- Twitter - [@darkerarcher](https://www.twitter.com/yourusername)
+- Twitter - [@darkerarcher](https://www.twitter.com/DarkerArcher)
 
 
 ## Acknowledgments
